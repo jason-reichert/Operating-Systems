@@ -1,0 +1,1 @@
+An Operating system is how the computer produces or completes what the user needs to get done. The Operating system gives the user an easy way to take what thery are doing and send it to the computers memory, or file management. Some Operating systems make it effotless for the user while some allow the user to have more control and make things go the way they would like.
